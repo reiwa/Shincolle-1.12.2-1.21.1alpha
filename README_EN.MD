@@ -20,7 +20,7 @@ This is an unofficial port mod from Shincolle 1.10.2. It includes some modificat
 ・Changed the specifications of PVP mode. When the setting is off, Shinkaiseikan, ship girls will no longer counterattack if an Admiral attacks another Admiral's Shinkaiseikan, ship girls. (Probably)<br>
 ・Optimized internal programming, compressed images, and removed some sounds. As a result, the file size has been reduced by about 1MB.<br>
 ・Added new equipment to "Akatsuki".<br>
-・Added a Japanese translation to the "Abyssal Logbook".
+・Added a Japanese translation to the "Abyssal Logbook".<br>
 ・Characters displayed in the index of the "Abyssal Logbook" can now be moved more smoothly.<br>
 ・Selecting Shinkaiseikan, ship girls using the "Wo-Class Command Scepter" is now much faster.<br>
 ・Changed the logic for maritime formation movement.<br>
