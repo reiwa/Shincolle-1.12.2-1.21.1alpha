@@ -31,6 +31,6 @@ This is an unofficial port mod from Shincolle 1.10.2. It includes some modificat
 # About Shincolle 1.21.1α
 
 This is an unofficial port mod from Shincolle 1.10.2. It contains many unimplemented features and bugs.<br>
-・Currently, it is a Creative Mode exclusive mod.
-・Shinkaiseikan, ship girls can follow the Admiral, move, and attack under the instructions of the "Wo-Class Command Scepter".
-・Other features are currently unimplemented.
+・Currently, it is a Creative Mode exclusive mod.<br>
+・Shinkaiseikan, ship girls can follow the Admiral, move, and attack under the instructions of the "Wo-Class Command Scepter".<br>
+・Other features are currently unimplemented.<br>
