@@ -28,7 +28,7 @@ This is an unofficial port mod from Shincolle 1.10.2. It includes some modificat
 ・Admirals can now drink the "Repair Bucket".<br>
 ・Slightly improved compatibility with the Morph MOD.<br><br>
 
-# About Shincolle 1.21.1α
+# About Shincolle 1.21.1α（neoforge）
 
 This is an unofficial port mod from Shincolle 1.10.2. It contains many unimplemented features and bugs.<br>
 ・Currently, it is a Creative Mode exclusive mod.<br>
