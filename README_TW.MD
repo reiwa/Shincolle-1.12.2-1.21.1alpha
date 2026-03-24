@@ -28,7 +28,7 @@
 ・提督現在可以喝下「修復桶」了。<br>
 ・稍微提升了與Morph MOD的相容性。<br><br>
 
-# 關於Shincolle 1.21.1α
+# 關於Shincolle 1.21.1α（neoforge）
 
 這是從Shincolle 1.10.2非官方移植的MOD。包含大量未實裝的功能和Bug。<br>
 ・目前是創造模式專用的MOD。<br>
