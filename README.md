@@ -1,8 +1,8 @@
 # Shincolle-1.12.2-1.21.1
 This is unofficial version of Shincolle 1.12.2β(forge) & 1.21.1α(neoforge)<br><br>
-Repositories:<br>
+Repositories:<br><br>
 1.12.2 --> https://github.com/reiwa/Shincolle-1.12.2<br>
-1.21.1 --> https://github.com/reiwa/Shincolle-1.21.1<br>
+1.21.1 --> https://github.com/reiwa/Shincolle-1.21.1<br><br>
 Documents:
 - [日本語](README_JP.MD)
 - [Chinese](README_CN.MD)
