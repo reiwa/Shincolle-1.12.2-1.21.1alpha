@@ -1,6 +1,7 @@
 # About Shincolle 1.12.2β
 
-This is an unofficial port mod from Shincolle 1.10.2. It includes some modifications from the original mod.<br><br>
+This is an unofficial port mod from Shincolle 1.10.2. It includes some modifications from the original mod.<br>
+Supports almost all features of Shincolle.<br><br>
 
 ## List of Changes
 
@@ -24,6 +25,7 @@ This is an unofficial port mod from Shincolle 1.10.2. It includes some modificat
 ・Characters displayed in the index of the "Abyssal Logbook" can now be moved more smoothly.<br>
 ・Selecting Shinkaiseikan, ship girls using the "Wo-Class Command Scepter" is now much faster.<br>
 ・Changed the logic for maritime formation movement.<br>
+・Improved stability when riding and moving with Abyssal Fleet units.<br>
 ・Admirals can now eat the "Model 21 Zero Fighter (1/48)".<br>
 ・Admirals can now drink the "Repair Bucket".<br>
 ・Slightly improved compatibility with the Morph MOD.<br><br>
@@ -31,6 +33,3 @@ This is an unofficial port mod from Shincolle 1.10.2. It includes some modificat
 # About Shincolle 1.21.1α（neoforge）
 
 This is an unofficial port mod from Shincolle 1.10.2. It contains many unimplemented features and bugs.<br>
-・Currently, it is a Creative Mode exclusive mod.<br>
-・Shinkaiseikan, ship girls can follow the Admiral, move, and attack under the instructions of the "Wo-Class Command Scepter".<br>
-・Other features are currently unimplemented.<br>
