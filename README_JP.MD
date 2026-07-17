@@ -28,4 +28,4 @@ Shincolleのほぼすべての機能をサポートしています。<br><br>
 ・Morph MODとの互換性が少し高まりました。<br><br>
 
 # Shincolle 1.21.1αについて（neoforge）
-Shincolle 1.10.2からの非公式移植MODです。未実装機能や不具合を多数含みます。<br>
+Shincolle 1.10.2からの非公式移植MODです。未実装機能や不具合を含みます。<br>
