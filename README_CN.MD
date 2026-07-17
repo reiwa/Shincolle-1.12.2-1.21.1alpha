@@ -32,4 +32,4 @@
 
 # 关于Shincolle 1.21.1α（neoforge）
 
-这是从Shincolle 1.10.2非官方移植的MOD。包含大量未实现的功能和Bug。<br>
+这是从Shincolle 1.10.2非官方移植的MOD。包含未实现的功能和Bug。<br>
